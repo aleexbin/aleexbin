@@ -1,10 +1,10 @@
 # Alex Bin
 
-_Estudando programação e desenvolvimento em Front-end_
+_Estudando programação e desenvolvimento em Front-end - Autodidata_
 
 Me chamo Alex Bin, tenho 32 anos e sou natural de Santa Catarina. Concluí o ensino superior na UTFPR, no curso de Bacharel em Administração.
 
-Visando uma transição de carreira, iniciei meus estudos em programação de forma autodidata. Atualmente, estou focado no desenvolvimento front-end, trabalhando com HTML, CSS e JavaScript. Na sequência, pretendo me aprofundar em TypeScript, React, Tailwind e Python.
+Visando uma transição de carreira, iniciei meus estudos em programação de forma autodidata. Atualmente, estou focado no conhecimento e desenvolvimento front-end, estudando e paraticando HTML, CSS e JavaScript. Na sequência, pretendo me aprofundar em TypeScript, React, Tailwind e Python (não necessariamente nessa ordem).
 
 <p align="left">
     <a href="https://github.com/aleexbin?tab=repositories&sort=stargazers">
